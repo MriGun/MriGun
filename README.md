@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Mrinmoy
 
+I am currently working at the City Bank as a software engineer. Previously i have worked in software company. Actively developing application in java, spring.
+
 
 <!--
 **MriGun/MriGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
